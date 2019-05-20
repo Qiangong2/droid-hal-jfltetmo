@@ -5,7 +5,7 @@
 %define vendor samsung
 
 %define vendor_pretty Samsung
-%define device_pretty Galaxy S4
+%define device_pretty Galaxy S4 T-Mobile
 
 %define installable_zip 1
 
